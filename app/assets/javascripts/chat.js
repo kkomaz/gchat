@@ -12,7 +12,6 @@ var chatboxFocus = new Array();
 var chatBoxes = new Array();
 
 var ready = function () {
-
     chatBox = {
 
         /**
@@ -245,10 +244,7 @@ var ready = function () {
             }
 
         }
-
-
-
-    }
+    };
 
 
     /**
